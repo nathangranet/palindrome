@@ -1,0 +1,2 @@
+# palindrome
+mathematical project
